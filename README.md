@@ -2,10 +2,10 @@
 
 ## Classes
 
-1. [Introduction](https://raw.githack.com/emiliolg/concurrency/main/slides/introduction.html)
+1. [Introduction](https://raw.githack.com/FacultadIngenieria/concurrency/main/slides/introduction.html)
 3. [Introduction to Thread Programming](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/intro_java_rust.html)
 4. [Parallelism](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/parallel.html)
-5. [Mutual Exclusion](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/mutex.html)
+5. [Mutual Exclusion](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex.html)
 6. [Concurrency Abstractions - Part 1](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/abstractions1.html)
 7. [Concurrency Abstractions - Part 2](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/abstractions2.html)
 8. **Primer Parcial**
