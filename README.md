@@ -2,7 +2,7 @@
 
 ## Classes
 
-1. [Introduction](https://raw.githack.com/FacultadIngenieria/concurrency/main/slides/introduction.html)
+1. [Introduction](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/introduction.html)
 3. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/intro_java_rust.html)
 4. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/parallel.html)
 5. [Mutual Exclusion](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex.html)
