@@ -2,15 +2,15 @@
 
 ## Classes
 
-1. [Introduction](classes/introduction.html)
-2. [Introduction to Thread Programming](classes/intro_java_rust.md)
-3. [Parallelism](classes/parallel.md)
-4. [Mutual Exclusion](classes/mutex.md)
-5. [Concurrency Abstractions - Part 1](https://html-preview.github.io/?https://github.com/emiliolg/concurrency/blob/main/slides/abstractions1.html)
-7. [Concurrency Abstractions - Part 2](classes/abstractions2.md)
+1. [Introduction](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/introduction.html)
+2. [Introduction to Thread Programming](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/intro_java_rust.html)
+3. [Parallelism](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/parallel.html)
+4. [Mutual Exclusion](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/mutex.html)
+5. [Concurrency Abstractions - Part 1](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/abstractions1.html)
+7. [Concurrency Abstractions - Part 2](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/abstractions2.html)
 8. **Primer Parcial**
-9. [Non Blocking Algorithms](classes/nonblocking.md)
-10. [Asynchronicity](classes/asynchronicity.md)
+9. [Non Blocking Algorithms](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/nonblocking.html)
+10. [Asynchronicity](https://html-preview.github.io/?url=https://github.com/emiliolg/concurrency/blob/main/slides/asynchronicity.html)
 11. ...
 12. ...
 13. [Actors Part1](classes/actors1.md)
