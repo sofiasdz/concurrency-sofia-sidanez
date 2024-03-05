@@ -3,14 +3,14 @@
 ## Classes
 
 1. [Introduction](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/introduction.html)
-3. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/intro_java_rust.html)
-4. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/parallel.html)
+3. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/intro_java_rust.html)
+4. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/parallel.html)
 5. [Mutual Exclusion](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex.html)
-6. [Concurrency Abstractions - Part 1](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/abstractions1.html)
-7. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/abstractions2.html)
+6. [Concurrency Abstractions - Part 1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions1.html)
+7. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions2.html)
 8. **Primer Parcial**
-9. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/nonblocking.html)
-10. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/blob/main/slides/asynchronicity.html)
+9. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
+10. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
 11. ...
 12. ...
 13. [Actors Part1](classes/actors1.md)
