@@ -6,16 +6,16 @@
 2. [Introduction to Thread Programming](classes/intro_java_rust.md)
 3. [Parallelism](classes/parallel.md)
 4. [Mutual Exclusion](classes/mutex.md)
-5. [Concurrency Abstractions - Part 1](classes/abstractions1.md)
-6. [Concurrency Abstractions - Part 2](classes/abstractions2.md)
-7. **Primer Parcial**
-8. [Non Blocking Algorithms](classes/nonblocking.md)
-9. [Asynchronicity](classes/asynchronicity.md)
-10. ...
+5. [Concurrency Abstractions - Part 1](https://html-preview.github.io/?https://github.com/emiliolg/concurrency/blob/main/slides/abstractions1.html)
+7. [Concurrency Abstractions - Part 2](classes/abstractions2.md)
+8. **Primer Parcial**
+9. [Non Blocking Algorithms](classes/nonblocking.md)
+10. [Asynchronicity](classes/asynchronicity.md)
 11. ...
-12. [Actors Part1](classes/actors1.md)
-13. [Actors Part2](classes/actors2.md)
-14. **Segundo Parcial**
+12. ...
+13. [Actors Part1](classes/actors1.md)
+14. [Actors Part2](classes/actors2.md)
+15. **Segundo Parcial**
 
 
 ### Calendario
